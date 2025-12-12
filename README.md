@@ -37,7 +37,8 @@ Program:
 
 /* Program to design a half adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by:    keerthika R     RegisterNumber:    25017601
+Developed by:    keerthika R    
+RegisterNumber:    25017601
 
 RTL Schematic
 
